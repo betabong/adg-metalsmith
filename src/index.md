@@ -5,4 +5,4 @@ author: Severin KLaus
 layout: main.hbs
 ---
 
-Welcome!
+Welcome!!
