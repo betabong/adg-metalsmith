@@ -1,7 +1,7 @@
 {
-  "name": "Accessibility Developer Guide",
+  "name": "adg",
   "version": "1.0.0",
-  "description": "Let them see, let them know",
+  "description": "Accessibility Developer Guide",
   "main": "index.js",
   "scripts": {
     "build": "node app/build.js",
