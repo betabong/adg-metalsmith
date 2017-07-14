@@ -1,4 +1,4 @@
-# Metalsmith example
+# Accessibility Developer Guide Testrun
 
 Just a quick example of using Metalsmith to build a static site.
 
@@ -6,5 +6,11 @@ Just a quick example of using Metalsmith to build a static site.
 
 ```
 npm install
-node build.js
+npm run build
+```
+
+## Start a local server
+
+```
+npm run start
 ```
